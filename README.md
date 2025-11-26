@@ -28,7 +28,7 @@ This project analyses customer churn data to identify patterns, high-risk segmen
 (All measures are built and optimized within the .pbix file.)
 
 # 🎯 Purpose of the Project
-> Understand why customers churn
-> Identify high risk groups
-> Spport data-driven decision making
-> Demonstrate Power BI & DAX expertise
+1. Understand why customers churn
+2. Identify high risk groups
+3. Spport data-driven decision making
+4. Demonstrate Power BI & DAX expertise
