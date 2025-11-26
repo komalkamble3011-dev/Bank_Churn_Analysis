@@ -12,19 +12,19 @@ This project analyses customer churn data to identify patterns, high-risk segmen
 5. Interactive Visual Reporting
 
 # 📈 Key Insights Covered
-> Overall Churn Rate
-> Demographic Breakdown (age, geography, gender)
-> Impact of credit score and tenure
-> Customer activity analysis
-> High-risk churn segments
-> Behavioural pattern influencing churn
+1. Overall Churn Rate
+2. Demographic Breakdown (age, geography, gender)
+3. Impact of credit score and tenure
+4. Customer activity analysis
+5. High-risk churn segments
+6. Behavioural pattern influencing churn
 
 # 🧮 DAX Measures Implemented
-> Churn Percentage
-> Active vs Inactive customers
-> Avrerage Tenure
-> Customer Segmentation
-> Aggregated retation matrices
+1. Churn Percentage
+2. Active vs Inactive customers
+3. Avrerage Tenure
+4. Customer Segmentation
+5. Aggregated retation matrices
 (All measures are built and optimized within the .pbix file.)
 
 # 🎯 Purpose of the Project
